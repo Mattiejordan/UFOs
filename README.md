@@ -8,21 +8,28 @@ by searching for a sighting with details such as date, city, state, country, and
 of the unidentified flying object!
 
 ## How to query by date.
-![static/image/filtered_by_date](static/image/filtered_by_date.jpg)
+Type a date of your choosing between January 1, 2010 and January 13, 2010. Press Enter.
+![static/images/filtered_by_date](static/images/filtered_by_date.jpg)
 
 ## How to query by city.
-![static/image/filtered_by_city](static/image/filtered_by_city.jpg)
+You can clear the previous date query to search a certain city's sightings or combine them to search for both. 
+![static/images/filtered_by_city](static/images/filtered_by_city.jpg)
 
 ## How to query by state.
-![static/image/filtered_by_state](static/image/filtered_by_state.jpg)
+Type the lowercase two letter abbreviation for the state of your choosing. The above queries may be cleared
+before hitting "Enter" on your keyboard or added for a narrowed search. 
+![static/images/filtered_by_state](static/images/filtered_by_state.jpg)
 
 ## How to query by country.
-![static/image/filtered_by_country](static/image/filtered_by_country.jpg)
+Type the lowercase two letter abbreviation for the country of your choosing. 
+![static/images/filtered_by_country](static/images/filtered_by_country.jpg)
 
 ## How to query by shape.
-![static/image/filtered_by_shape](static/image/filtered_by_shape.jpg)
+Type in a type of shape such as circle, light, triangle, fireball, disk, formation, sphere, other or unknown.
+![static/images/filtered_by_shape](static/images/filtered_by_shape.jpg)
 
 overview sentences
+![static/images/filtered_by_all](static/images/filtered_by_all.jpg)
 
 
 summary statement
