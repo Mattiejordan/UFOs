@@ -8,19 +8,19 @@ by searching for a sighting with details such as date, city, state, country, and
 of the unidentified flying object!
 
 ## How to query by date.
-![folder/image/filtered_by_date](folder/image/filtered_by_date.jpg)
+![static/image/filtered_by_date](static/image/filtered_by_date.jpg)
 
 ## How to query by city.
-![folder/image/filtered_by_city](folder/image/filtered_by_city.jpg)
+![static/image/filtered_by_city](static/image/filtered_by_city.jpg)
 
 ## How to query by state.
-![folder/image/filtered_by_state](folder/image/filtered_by_state.jpg)
+![static/image/filtered_by_state](static/image/filtered_by_state.jpg)
 
 ## How to query by country.
-![folder/image/filtered_by_country](folder/image/filtered_by_country.jpg)
+![static/image/filtered_by_country](static/image/filtered_by_country.jpg)
 
 ## How to query by shape.
-![folder/image/filtered_by_shape](folder/image/filtered_by_shape.jpg)
+![static/image/filtered_by_shape](static/image/filtered_by_shape.jpg)
 
 overview sentences
 
