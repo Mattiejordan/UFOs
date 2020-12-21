@@ -28,29 +28,21 @@ Type the lowercase two letter abbreviation for the country of your choosing.
 Type in a type of shape such as circle, light, triangle, fireball, disk, formation, sphere, other or unknown.
 ![static/images/filtered_by_shape](static/images/filtered_by_shape.png)
 
-overview sentences
+You may search for sightings by one of five of the criteria above. Input one, two or all of the query
+fields to narrow down your search details. 
 ![static/images/filtered_by_all](static/images/filtered_by_all.png)
 
 
-summary statement
-drawback of design
-recommendation#1
-recommendation#2
+Thanks to Dana, this website has a great source of information on five categories describing UFO
+sightings during several days in January of 2010. Additional information could be gleaned from this 
+data set regarding the duration of the sighting or context clues from the commentary describing the 
+event. Sightings are recorded from a couple of seconds or several minutes long. It could be very 
+interesting to be able to search for types of UFO events that are over a minute long as an example. 
+
+This list of information from data.js is not exhaustive by any means. If there would be an easy way to 
+compile sighting data historically from egyptian times all the way up to sightings this year would be so informative. 
+If Dana could link reported photos or videos from the sightings that also would be a great resouce
+to link in this query. From gleaning this information can you decide if we are alone? Are we not alone in this universe?
 
 
-Deliverable 2 Instructions
-
-Analysis (12 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose is well defined (2 pt)
-Results:
-
-There is a description of how to perform a search, with images. (4 pt)
-Summary:
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
 
